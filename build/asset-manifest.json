@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b0ed29a4.css",
+    "main.js": "/static/js/main.b8482e1c.js",
+    "static/media/GlobalPresence.png": "/static/media/GlobalPresence.002f5756f0be40364058.png",
+    "static/media/Flags.png": "/static/media/Flags.2ecb46e702beee3cc5ff.png",
+    "static/media/Slider3.png": "/static/media/Slider3.c042146e85e6f2399d33.png",
+    "static/media/Image1.png": "/static/media/Image1.3f47597914c3c98912e7.png",
+    "static/media/material.png": "/static/media/material.6ab9036f7f0ad1b6203e.png",
+    "static/media/Slider4.png": "/static/media/Slider4.38ca935822c9dedcd1fa.png",
+    "static/media/Slider2.png": "/static/media/Slider2.f26fd1943d8872ede8af.png",
+    "static/media/Slider1.png": "/static/media/Slider1.2ddda694eb6423865045.png",
+    "static/media/ChemicalGlass.png": "/static/media/ChemicalGlass.21938cdcc9e7b8b30cbb.png",
+    "static/media/Export.png": "/static/media/Export.37688a17fa6a51461e41.png",
+    "static/media/logo.png": "/static/media/logo.43d3fb203ea7635559f4.png",
+    "index.html": "/index.html",
+    "main.b0ed29a4.css.map": "/static/css/main.b0ed29a4.css.map",
+    "main.b8482e1c.js.map": "/static/js/main.b8482e1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0ed29a4.css",
+    "static/js/main.b8482e1c.js"
+  ]
+}
